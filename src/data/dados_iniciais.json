@@ -74,56 +74,53 @@
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Star Wars",
+      "cor": "#257BE5",
+      
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Star Wars Episode III: Order 66",
+          "url": "hhttps://www.youtube.com/watch?v=xSN6BOgrSSU"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Star Wars Jedi: Fallen Order",
+          "url": "https://www.youtube.com/watch?v=0GLbwkfhYZk"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Star Wars: The Clone Wars- Ahsoka Vs. Maul",
+          "url": "https://www.youtube.com/watch?v=JlFC8woFkTA"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "The Mandalorian – Official Trailer",
+          "url": "https://www.youtube.com/watch?v=XmI7WKrAtqs"
         }
       ]
     },
     {
       "titulo": "Filmes",
-      "cor": "orange",
+      "cor": "red",
       "videos": [
         {
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Marvel Studios' Avengers: Infinity War Official Trailer",
+          "url": "https://www.youtube.com/watch?v=6ZfuNTqbHE8"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "The Hobbit: The Battle of the Five Armies - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=TpsFWBzDHkk"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Marvel Studios' Black Widow - Official Teaser Trailer",
+          "url": "https://www.youtube.com/watch?v=RxAtuMu_ph4"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "orange",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -142,12 +139,12 @@
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Marvel’s Spider-Man – Be Greater Extended Trailer | PS4",
+          "url": "https://www.youtube.com/watch?v=q4GdJVvdxss"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Horizon Forbidden West - Announcement Trailer | PS5",
+          "url": "https://www.youtube.com/watch?v=Lq594XmpPBg"
         }
       ]
     },
