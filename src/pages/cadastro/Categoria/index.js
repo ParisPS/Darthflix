@@ -30,7 +30,7 @@ function CadastroCategoria() {
 
   useEffect(()=> {
     console.log('hello  Brazil');
-    const URL_TOP = 'http://localhost:8080/categorias';
+    const URL_TOP = 'https://darthflix.herokuapp.com/categorias';
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
       const resposta =await respostaDoServidor.json();
@@ -85,7 +85,7 @@ function CadastroCategoria() {
         />
 
         <FormField
-          label="Descrição:"
+          label="Descrição"
           type="textarea"
           name="descricao"
           value={values.descricao}
