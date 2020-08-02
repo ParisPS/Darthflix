@@ -42,10 +42,6 @@ function Home() {
 
           <Footer />
 
-
-
-
-
       </div>
     
   );
