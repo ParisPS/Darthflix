@@ -20,13 +20,9 @@
       },
       {
         "id": 3,
-        "titulo": "Data Science e Inteligência Artificial",
-        "cor": "#9cd33b",
-        "link_extra": {
-          "text": "Cursos de Data Science na Alura",
-          "url": "https://www.alura.com.br/cursos-online-mobile"
-        }
-      },
+        "titulo": "Star Wars",
+        "cor": "#257BE5"
+        },
       {
         "id": 4,
         "titulo": "Filmes",
@@ -118,26 +114,26 @@
       {
         "id": 13,
         "categoriaId": 3,
-        "titulo": "Teste de Turing",
-        "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+        "titulo": "Star Wars Episode III: Order 66",
+        "url": "hhttps://www.youtube.com/watch?v=xSN6BOgrSSU"
       },
       {
         "id": 14,
         "categoriaId": 3,
-        "titulo": "O que é Data Science?",
-        "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+        "titulo": "Star Wars Jedi: Fallen Order",
+        "url": "https://www.youtube.com/watch?v=0GLbwkfhYZk"
       },
       {
         "id": 15,
         "categoriaId": 3,
-        "titulo": "Melhor forma de aprender Python",
-        "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+        "titulo": "Star Wars: The Clone Wars- Ahsoka Vs. Maul",
+        "url": "https://www.youtube.com/watch?v=JlFC8woFkTA"
       },
       {
         "id": 16,
         "categoriaId": 3,
-        "titulo": "Como ingressar no mercado de Data Science?",
-        "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        "titulo": "The Mandalorian – Official Trailer",
+        "url": "https://www.youtube.com/watch?v=XmI7WKrAtqs"
       },
       {
         "id": 17,

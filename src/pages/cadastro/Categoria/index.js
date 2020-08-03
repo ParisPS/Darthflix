@@ -48,13 +48,31 @@ function CadastroCategoria() {
     //      id: 1,
     //      nome: "Front End",
     //      descricao: "uma Categoria show",
-    //      cor: "#cbd1ff"
+    //      cor: "##6BD1FF"
     //    },
     //    {
     //     id: 2,
     //     nome: "Back End",
     //     descricao: "uma Categoria show",
-    //     cor: "#cbd1ff"
+    //     cor: "#00C86F"
+    //    },
+    // {
+    //     id: 3,
+    //     nome: "Star Wars",
+    //     descricao: "uma Categoria show",
+    //     cor: "#257BE5"
+    //    },
+    // {
+    //     id: 4,
+    //     nome: "Filmes",
+    //     descricao: "uma Categoria show",
+    //     cor: "red"
+    //    },
+    // {
+    //     id: 5,
+    //     nome: "Games",
+    //     descricao: "uma Categoria show",
+    //     cor: "orange"
     //    },
     //  ]);
     //}, 4 * 1000);
