@@ -29,10 +29,10 @@ function CadastroCategoria() {
   }
 
   useEffect(()=> {
-    console.log('hello  Brazil');
     const URL_TOP = window.location.hostname.includes('localhost')
-    ? 'https://localhost:8080/categorias'
-    : 'https://darthflix.herokuapp.com/categorias';
+    ? 'http://localhost:8080/videos'
+    ? 'https://localhost:8080/categorias' 
+    : 'https://darthflix.herokuapp.com/categorias':
     fetch(URL_TOP)
       .then(async (respostaDoServidor) => {
       const resposta =await respostaDoServidor.json();
@@ -115,12 +115,13 @@ function CadastroCategoria() {
       )}
       
       <ul>
-        {categorias.map((categoria, indice) => (
-          <li key={`${categoria}${indice}$`}>
-            {categoria.nome}
+        {categorias.map((categoria) => (
+          <li key={`${categoria.titulo}`}>
+            {categoria.titulo}
           </li>
         ))}
       </ul>
+
       <Link to="/">
         Ir para home
       </Link>
